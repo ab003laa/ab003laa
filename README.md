@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm Ahmed Alaa Eldin</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <h5>My primary expertise lies in front-end development, and I use my skills in HTML5, CSS3, and JS6 to create stunning websites and user interfaces. I am also proficient in REACT.js, which allows me to create responsive and dynamic web applications. With my experience, skills, and passion for web development, I am excited to take on new challenges and create innovative solutions for clients.</h5>
-- 🌱 I’m currently learning **Node.js Express , React Native**
 
 - 💬 I work using ***HTML5, CSS3, JavaScript ES, Bootstrap, JQuary, React, Redux***
-
+- 🌱 I’m currently learning **Node.js Express , React Native**
+- 
 - 📫 How to reach me **me.ahmedalaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
